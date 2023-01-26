@@ -1,0 +1,201 @@
+Script started on 2022-11-08 12:32:23+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="203" LINES="55"]
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ cal
+[?2004l   November 2022      
+Su Mo Tu We Th Fr Sa  
+       1  2  3  4  5  
+ 6  7  8  9 10 11 12  
+13 14 15 16 17 18 19  
+20 21 22 23 24 25 26  
+27 28 29 30           
+                      
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ cal 12 2022
+[?2004l   December 2022      
+Su Mo Tu We Th Fr Sa  
+             1  2  3  
+ 4  5  6  7  8  9 10  
+11 12 13 14 15 16 17  
+18 19 20 21 22 23 24  
+25 26 27 28 29 30 31  
+                      
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ cal 2022
+[?2004l                            2022
+      January               February               March          
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+                   1         1  2  3  4  5         1  2  3  4  5  
+ 2  3  4  5  6  7  8   6  7  8  9 10 11 12   6  7  8  9 10 11 12  
+ 9 10 11 12 13 14 15  13 14 15 16 17 18 19  13 14 15 16 17 18 19  
+16 17 18 19 20 21 22  20 21 22 23 24 25 26  20 21 22 23 24 25 26  
+23 24 25 26 27 28 29  27 28                 27 28 29 30 31        
+30 31                                                             
+
+       April                  May                   June          
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+                1  2   1  2  3  4  5  6  7            1  2  3  4  
+ 3  4  5  6  7  8  9   8  9 10 11 12 13 14   5  6  7  8  9 10 11  
+10 11 12 13 14 15 16  15 16 17 18 19 20 21  12 13 14 15 16 17 18  
+17 18 19 20 21 22 23  22 23 24 25 26 27 28  19 20 21 22 23 24 25  
+24 25 26 27 28 29 30  29 30 31              26 27 28 29 30        
+                                                                  
+
+        July                 August              September        
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+                1  2      1  2  3  4  5  6               1  2  3  
+ 3  4  5  6  7  8  9   7  8  9 10 11 12 13   4  5  6  7  8  9 10  
+10 11 12 13 14 15 16  14 15 16 17 18 19 20  11 12 13 14 15 16 17  
+17 18 19 20 21 22 23  21 22 23 24 25 26 27  18 19 20 21 22 23 24  
+24 25 26 27 28 29 30  28 29 30 31           25 26 27 28 29 30     
+31                                                                
+
+      October               November              December        
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+                   1         1  2  3  4  5               1  2  3  
+ 2  3  4  5  6  7  8   6  7  8  9 10 11 12   4  5  6  7  8  9 10  
+ 9 10 11 12 13 14 15  13 14 15 16 17 18 19  11 12 13 14 15 16 17  
+16 17 18 19 20 21 22  20 21 22 23 24 25 26  18 19 20 21 22 23 24  
+23 24 25 26 27 28 29  27 28 29 30           25 26 27 28 29 30 31  
+30 31                                                             
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ date
+[?2004lTuesday 08 November 2022 12:32:48 PM IST
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ date +%m
+[?2004l11
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ date +%m[Kh
+[?2004lNov
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ date +%h[Kd
+[?2004l08
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ date +%d-%m-%y
+[?2004l08-11-22
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ date +%d-%m-%y[K[K[K[K[K[K[KD
+[?2004l11/08/22
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ date +%D[C[KT
+[?2004l12:33:21
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ echo ""h"e"l"l"l"o"
+[?2004lhelllo
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ x=2
+[?2004l[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ echo $x
+[?2004l2
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ echo $x[C[KSHELL
+[?2004l/bin/bash
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ echo $SHELL[K[K[K[K[KPATH
+[?2004l/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ echo $PATH[K[K[K[K[K-e ""E"n"t"e"r" "[1P"\"c"[C
+[?2004lEnter[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ read a
+[?2004l10
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ echo$[K $a
+[?2004l10
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ bc
+[?2004lbc 1.07.1
+Copyright 1991-1994, 1997, 1998, 2000, 2004, 2006, 2008, 2012-2017 Free Software Foundation, Inc.
+This is free software with ABSOLUTELY NO WARRANTY.
+For details type `warranty'. 
+[?2004h10+11
+[?2004l21
+[?2004h11+[K*2
+[?2004l22
+[?2004hexit[K[K[K[K[?2004l
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ who
+[?2004lcse      tty2         2022-11-08 17:14 (tty2)
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ whoami
+[?2004lcse
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ uname
+[?2004lLinux
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ tty
+[?2004l/dev/pts/1
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ stty
+[?2004lspeed 38400 baud; line = 0;
+-brkint -imaxbel iutf8
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ mkdir folder2
+[?2004l[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ ls
+[?2004l[0m[01;32mfile1.sh[0m  [01;34mfolder2[0m  typescript
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ rm [Kdir dile2[1Pile2file2[C[C[C[C
+[?2004lrmdir: failed to remove 'file2': No such file or directory
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ rmdir file2[1P2[1P2[1P2o2l2d2e2r2[C
+[?2004l[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ ls
+[?2004l[0m[01;32mfile1.sh[0m  typescript
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ cd
+[?2004l[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~[00m$ cd -
+[?2004l/home/cse/Desktop/Manoj
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ cd ..
+[?2004l[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop[00m$ cd ..[1P-
+[?2004l/home/cse/Desktop/Manoj
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ man ls
+[?2004l[?1049h[22;0;0t[?1h=LS(1)                                                                                       User Commands                                                                                       LS(1)[m
+[m
+[1mNAME[0m[m
+       ls - list directory contents[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mls[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of [1m-cftuvSUX[0m nor [1m--sort[0m is specified.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.[m
+[m
+       [1m-a[0m, [1m--all[0m[m
+              do not ignore entries starting with .[m
+[m
+       [1m-A[0m, [1m--almost-all[0m[m
+              do not list implied . and ..[m
+[m
+       [1m--author[0m[m
+              with [1m-l[0m, print the author of each file[m
+[m
+       [1m-b[0m, [1m--escape[0m[m
+              print C-style escapes for nongraphic characters[m
+[m
+       [1m--block-size[0m=[4mSIZE[24m[m
+              with [1m-l[0m, scale sizes by SIZE when printing them; e.g., '--block-size=M'; see SIZE format below[m
+[m
+       [1m-B[0m, [1m--ignore-backups[0m[m
+              do not list implied entries ending with ~[m
+[m
+       [1m-c[0m     with [1m-lt[0m: sort by, and show, ctime (time of last modification of file status information); with [1m-l[0m: show ctime and sort by name; otherwise: sort by ctime, newest first[m
+[m
+       [1m-C[0m     list entries by columns[m
+[m
+       [1m--color[0m[=[4mWHEN[24m][m
+              colorize the output; WHEN can be 'always' (default if omitted), 'auto', or 'never'; more info below[m
+[m
+       [1m-d[0m, [1m--directory[0m[m
+              list directories themselves, not their contents[m
+[m
+       [1m-D[0m, [1m--dired[0m[m
+              generate output designed for Emacs' dired mode[m
+[m
+       [1m-f[0m     do not sort, enable [1m-aU[0m, disable [1m-ls[0m [1m--color[0m[m
+[m
+       [1m-F[0m, [1m--classify[0m[m
+              append indicator (one of */=>@|) to entries[m
+[m
+       [1m--file-type[0m[m
+              likewise, except do not append '*'[m
+[m
+       [1m--format[0m=[4mWORD[24m[m
+              across [1m-x[0m, commas [1m-m[0m, horizontal [1m-x[0m, long [1m-l[0m, single-column [1m-1[0m, verbose [1m-l[0m, vertical [1m-C[0m[m
+[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ cat 
+file1.sh    typescript  
+]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ cat file1.sh
+[?2004l#!/usr/bin/env bash
+
+name="User"
+echo "Hello $name!"
+a=10
+b=20
+c=$(($a+$b))
+echo $c
+cd .. 
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ wc file1.sh
+[?2004l 9 13 91 file1.sh
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ ps
+[?2004l    PID TTY          TIME CMD
+  31805 pts/1    00:00:00 bash
+  31899 pts/1    00:00:00 ps
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ ^m
+[?2004lbash: :s^m: substitution failed
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ type file1.sh
+[?2004lbash: type: file1.sh: not found
+[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ type file1.sh[K[K[K[K[K[K[K[K
+[?2004l[?2004h]0;cse@cse-HP-Elite-Tower-600-G9-Desktop-PC: ~/Desktop/Manoj[01;32mcse@cse-HP-Elite-Tower-600-G9-Desktop-PC[00m:[01;34m~/Desktop/Manoj[00m$ exit
+[?2004lexit
+
+Script done on 2022-11-08 12:38:09+05:30 [COMMAND_EXIT_CODE="0"]
