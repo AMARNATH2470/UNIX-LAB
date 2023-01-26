@@ -1,0 +1,1 @@
+-rw-rwxr-- 5 bmscecse bmscecse 0 Jan 10 11:59 file5.txt

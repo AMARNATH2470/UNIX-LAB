@@ -1,0 +1,1 @@
+-rw-rw-r-x 4 bmscecse bmscecse 0 Jan 10 11:59 file4.txt

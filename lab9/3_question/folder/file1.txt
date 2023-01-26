@@ -1,0 +1,1 @@
+-rw-rw-r-- 3 bmscecse bmscecse 0 Jan 10 11:59 file3.txt
